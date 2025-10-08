@@ -18,7 +18,7 @@
 
 ## 🔗 Live Demo
 
- - Live vercel demo: [View Live Project]()
+ - Live vercel demo: [View Live Project](https://react-project-word-guessing-game-rg.vercel.app/)
 
 ## 🛠️ Tech Stacks
 
