@@ -6,7 +6,6 @@ import { getFairwellText } from "./utility/utils";
 import {getRandomWord} from './utility/utils'
 import Confetti from 'react-confetti'
 import VideoNavigate from './components/VideoNavigate.jsx';
-import { color } from "chart.js/helpers";
 
 
 
