@@ -31,6 +31,8 @@ function VideoPage() {
                 ref={videoRef}
                 src={video} 
                 alt = "Video demo"
+                autoPlay
+                controls
             >
                 Sorry for the inconvinience. Your browser don't support embedded videos
             </video>
